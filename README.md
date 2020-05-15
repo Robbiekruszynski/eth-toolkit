@@ -106,6 +106,8 @@ The Graph is a tool for for indexing events emitted on the Ethereum blockchain. 
 
 To learn more, check out the [The Graph documentation](https://thegraph.com/docs).
 
+DIG INTO THIS 
+
 #### `yarn subgraph:codegen`
 
 Generates AssemblyScript types for smart contract ABIs and the subgraph schema.
